@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Tenali+Ramakrishna&display=swap");
+
+.App {
+    font-family: "Tenali Ramakrishna", sans-serif;
+    text-align: center;
+    background-color: pink;
+}
