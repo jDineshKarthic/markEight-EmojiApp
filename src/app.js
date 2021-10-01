@@ -12,7 +12,12 @@ const emojiDictionary = {
   "🐻": "animal",
   "⚽": "playing",
   "💡": "light",
-  "🎌": "flag"
+  "🎌": "flag",
+  "🎈": "balloon",
+  "🎁": "gift",
+  "🎶": "music",
+  "🌹": "rose",
+  "💍": "ring"
 };
 
 export default function App() {
